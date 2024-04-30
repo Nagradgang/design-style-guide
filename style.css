@@ -156,6 +156,26 @@ h1, h2 {
 
 }
 
+.aside-link {
+    text-decoration: none;
+    color: gray;
+}
+
+.aside-link:hover {
+
+  text-decoration: underline;
+  color: #383838;
+
+}
+
+.aside-link:visited {
+
+    text-decoration: none;
+    color: gray;
+  
+  }
+
+
 
 
 
