@@ -60,15 +60,15 @@ h1, h2 {
 }
 
 .gradient1 {
-    background-image: url("/img/gradient1.jpg");
+    background-image: url("img/gradient1.jpg");
 }
 
 .gradient2 {
-    background-image: url("/img/gradient2.jpg");
+    background-image: url("img/gradient2.jpg");
 }
 
 .gradient3 {
-    background-image: url("/img/gradient3.jpg");
+    background-image: url("img/gradient3.jpg");
 }
 
 .color-palette-table {
