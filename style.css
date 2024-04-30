@@ -1,0 +1,162 @@
+
+body {
+    display: grid;
+    min-height: auto;
+    margin: 0;
+    place-items: center; /* Center content both horizontally and vertically */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 255, 255);
+  }
+
+
+section {
+    text-align: left;
+    width: 700px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    background-position: 50% 50%;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 15px;
+    
+}
+
+h1 {
+    font-size: 55pt;
+}
+
+h2 {
+    font-size: 18pt;
+    text-decoration: none;
+}
+
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.gradient1, .gradient2, .gradient3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 45px;
+    background-position: 50% 50%;
+    background-size: cover;
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+}
+
+.gradient1 {
+    background-image: url("../03_Website-Design-System/img/gradient1.jpg");
+}
+
+.gradient2 {
+    background-image: url("../03_Website-Design-System/img/gradient2.jpg");
+}
+
+.gradient3 {
+    background-image: url("../03_Website-Design-System/img/gradient3.jpg");
+}
+
+.color-palette-table {
+    text-align: center;
+    width: 700px;
+    margin-top: 2px;
+    padding: 0px;
+    border-top: 0px;
+    border-spacing: 0px;
+}
+
+.color-palette {
+    width: 25%;
+    height: 90px;
+    margin-top: 0px;
+    padding-top: 0px;
+    border: 0px;
+}
+
+.color-name {
+    padding-top: 10px;
+    font-size: 12pt;
+}
+
+.color-number {
+    width: 25%;
+    height: auto;
+    font-size: 12pt;
+
+          
+}
+
+.text-style-table {
+    text-align: left;
+    width: 700px;
+    margin-top: 2px;
+    padding: 0px;
+    border-top: 0px;
+    border-spacing: 0px;
+}
+
+.fonts-combination {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    padding-bottom: 10px;
+}
+
+.font-style {
+    color: gray;
+    font-size: 10pt;
+    font-style: normal;
+}
+
+.text-example-heading-Georgia {
+    font-size: 40pt;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+
+.text-example-heading-Arial {
+    font-size: 40pt;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+
+.text-example-heading-Open-Sans {
+    font-size: 40pt;
+    font-family:"Open Sans", sans-serif;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+
+.text-example-body-Verdana
+ {
+    font-size: 12pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 30px;
+    font-style: normal;
+
+}
+
+
+
+
+
+
